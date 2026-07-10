@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce-mvp-backend",
+  "version": "1.0.0",
+  "description": "Backend sederhana untuk starter project e-commerce MVP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ecommerce", "express", "mvp"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^13.0.0"
+  }
+}
