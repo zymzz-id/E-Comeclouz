@@ -1,0 +1,42 @@
+[
+  {
+    "id": "af4e8893-3a64-411d-9589-03520ffdb362",
+    "name": "Sepatu Lari AeroFlex",
+    "price": 499000,
+    "category": "Olahraga",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "stock": 12,
+    "shortDescription": "Sepatu ringan untuk lari harian dengan bantalan empuk.",
+    "description": "AeroFlex dirancang untuk kenyamanan maksimal saat berlari maupun aktivitas kasual. Material mesh membantu sirkulasi udara dan sol responsif menjaga langkah tetap stabil."
+  },
+  {
+    "id": "78176b98-ec9d-4c61-89ba-ffe8439dce74",
+    "name": "Headphone NovaSound X2",
+    "price": 899000,
+    "category": "Elektronik",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "stock": 8,
+    "shortDescription": "Headphone nirkabel dengan suara jernih dan baterai tahan lama.",
+    "description": "NovaSound X2 menghadirkan audio detail, mikrofon bawaan untuk panggilan, dan desain lipat yang praktis untuk mobilitas harian."
+  },
+  {
+    "id": "30d074b0-4a84-47b3-91a5-f32b5a19f9dc",
+    "name": "Tas Kerja UrbanPack",
+    "price": 349000,
+    "category": "Aksesoris",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=80",
+    "stock": 15,
+    "shortDescription": "Tas multifungsi dengan kompartemen laptop dan desain minimalis.",
+    "description": "UrbanPack cocok untuk pekerja kreatif dan mahasiswa. Memiliki bahan tahan cipratan air serta ruang penyimpanan yang lega."
+  },
+  {
+    "id": "341193f2-79ab-494c-b4ce-4c4574c2d0c8",
+    "name": "Smartwatch Pulse One",
+    "price": 1299000,
+    "category": "Wearable",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "stock": 10,
+    "shortDescription": "Jam pintar untuk pemantauan aktivitas dan notifikasi harian.",
+    "description": "Pulse One memiliki monitor detak jantung, mode olahraga, notifikasi aplikasi, dan tampilan modern untuk penggunaan sepanjang hari."
+  }
+]
