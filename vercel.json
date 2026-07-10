@@ -10,10 +10,10 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://tes-clouz.vercel.app/api/$1"
+      "destination": "https://e-comeclouz-yd1o.vercel.app/api/$1"
     }
   ],
   "env": {
-    "VITE_API_URL": "https://tes-clouz.vercel.app/api"
+    "VITE_API_URL": "https://e-comeclouz-yd1o.vercel.app/api"
   }
 }
